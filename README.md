@@ -10,11 +10,11 @@ The project is written in **C#** and optimized for performance and clarity.
 
 ## Features
 
-- 🔍 Search for words and phrases in the Tanach
-- 🔢 Search by Gematria value of words or verses
-- ⚡ High performance using preprocessed JSON data
-- 📁 Clear and structured output (book, chapter, verse)
-- 📚 Based on the full text of the Hebrew Tanach
+-  Search for words and phrases in the Tanach
+-  Search by Gematria value of words or verses
+-  High performance using preprocessed JSON data
+-  Clear and structured output (book, chapter, verse)
+-  Based on the full text of the Hebrew Tanach
 
 ---
 
